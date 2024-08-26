@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3+Ts4k4guCWUCphORKC3a31aU+ycf9tPcjWwyynMmVad/VgvUErkUl129ekaaKYFXY8ffwtp2rHEWdTxnO2hwg==",
+  "success": true,
+  "projectFilePath": "D:\\proyects-2024\\PruebasTecnicas\\Atlantic-city\\src\\GestionBiblioteca.Domain\\GestionBiblioteca.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

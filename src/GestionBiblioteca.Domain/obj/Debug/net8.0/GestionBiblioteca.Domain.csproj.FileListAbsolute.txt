@@ -1,0 +1,12 @@
+D:\proyects-2024\PruebasTecnicas\Atlantic-city\src\GestionBiblioteca.Domain\bin\Debug\net8.0\GestionBiblioteca.Domain.deps.json
+D:\proyects-2024\PruebasTecnicas\Atlantic-city\src\GestionBiblioteca.Domain\bin\Debug\net8.0\GestionBiblioteca.Domain.dll
+D:\proyects-2024\PruebasTecnicas\Atlantic-city\src\GestionBiblioteca.Domain\bin\Debug\net8.0\GestionBiblioteca.Domain.pdb
+D:\proyects-2024\PruebasTecnicas\Atlantic-city\src\GestionBiblioteca.Domain\obj\Debug\net8.0\GestionBiblioteca.Domain.csproj.AssemblyReference.cache
+D:\proyects-2024\PruebasTecnicas\Atlantic-city\src\GestionBiblioteca.Domain\obj\Debug\net8.0\GestionBiblioteca.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyects-2024\PruebasTecnicas\Atlantic-city\src\GestionBiblioteca.Domain\obj\Debug\net8.0\GestionBiblioteca.Domain.AssemblyInfoInputs.cache
+D:\proyects-2024\PruebasTecnicas\Atlantic-city\src\GestionBiblioteca.Domain\obj\Debug\net8.0\GestionBiblioteca.Domain.AssemblyInfo.cs
+D:\proyects-2024\PruebasTecnicas\Atlantic-city\src\GestionBiblioteca.Domain\obj\Debug\net8.0\GestionBiblioteca.Domain.csproj.CoreCompileInputs.cache
+D:\proyects-2024\PruebasTecnicas\Atlantic-city\src\GestionBiblioteca.Domain\obj\Debug\net8.0\GestionBiblioteca.Domain.dll
+D:\proyects-2024\PruebasTecnicas\Atlantic-city\src\GestionBiblioteca.Domain\obj\Debug\net8.0\refint\GestionBiblioteca.Domain.dll
+D:\proyects-2024\PruebasTecnicas\Atlantic-city\src\GestionBiblioteca.Domain\obj\Debug\net8.0\GestionBiblioteca.Domain.pdb
+D:\proyects-2024\PruebasTecnicas\Atlantic-city\src\GestionBiblioteca.Domain\obj\Debug\net8.0\ref\GestionBiblioteca.Domain.dll

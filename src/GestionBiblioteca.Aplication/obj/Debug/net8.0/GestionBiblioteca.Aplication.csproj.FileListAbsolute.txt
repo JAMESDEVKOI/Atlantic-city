@@ -1,0 +1,15 @@
+D:\proyects-2024\PruebasTecnicas\Atlantic-city\src\GestionBiblioteca.Aplication\bin\Debug\net8.0\GestionBiblioteca.Aplication.deps.json
+D:\proyects-2024\PruebasTecnicas\Atlantic-city\src\GestionBiblioteca.Aplication\bin\Debug\net8.0\GestionBiblioteca.Aplication.dll
+D:\proyects-2024\PruebasTecnicas\Atlantic-city\src\GestionBiblioteca.Aplication\bin\Debug\net8.0\GestionBiblioteca.Aplication.pdb
+D:\proyects-2024\PruebasTecnicas\Atlantic-city\src\GestionBiblioteca.Aplication\bin\Debug\net8.0\GestionBiblioteca.Domain.dll
+D:\proyects-2024\PruebasTecnicas\Atlantic-city\src\GestionBiblioteca.Aplication\bin\Debug\net8.0\GestionBiblioteca.Domain.pdb
+D:\proyects-2024\PruebasTecnicas\Atlantic-city\src\GestionBiblioteca.Aplication\obj\Debug\net8.0\GestionBiblioteca.Aplication.csproj.AssemblyReference.cache
+D:\proyects-2024\PruebasTecnicas\Atlantic-city\src\GestionBiblioteca.Aplication\obj\Debug\net8.0\GestionBiblioteca.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyects-2024\PruebasTecnicas\Atlantic-city\src\GestionBiblioteca.Aplication\obj\Debug\net8.0\GestionBiblioteca.Aplication.AssemblyInfoInputs.cache
+D:\proyects-2024\PruebasTecnicas\Atlantic-city\src\GestionBiblioteca.Aplication\obj\Debug\net8.0\GestionBiblioteca.Aplication.AssemblyInfo.cs
+D:\proyects-2024\PruebasTecnicas\Atlantic-city\src\GestionBiblioteca.Aplication\obj\Debug\net8.0\GestionBiblioteca.Aplication.csproj.CoreCompileInputs.cache
+D:\proyects-2024\PruebasTecnicas\Atlantic-city\src\GestionBiblioteca.Aplication\obj\Debug\net8.0\GestionB.14721503.Up2Date
+D:\proyects-2024\PruebasTecnicas\Atlantic-city\src\GestionBiblioteca.Aplication\obj\Debug\net8.0\GestionBiblioteca.Aplication.dll
+D:\proyects-2024\PruebasTecnicas\Atlantic-city\src\GestionBiblioteca.Aplication\obj\Debug\net8.0\refint\GestionBiblioteca.Aplication.dll
+D:\proyects-2024\PruebasTecnicas\Atlantic-city\src\GestionBiblioteca.Aplication\obj\Debug\net8.0\GestionBiblioteca.Aplication.pdb
+D:\proyects-2024\PruebasTecnicas\Atlantic-city\src\GestionBiblioteca.Aplication\obj\Debug\net8.0\ref\GestionBiblioteca.Aplication.dll
